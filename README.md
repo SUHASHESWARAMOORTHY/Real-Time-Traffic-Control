@@ -58,3 +58,5 @@ Our **AI-powered Smart Traffic Management System** overcomes these limitations b
 - 🌐 **Mobile App or Web Dashboard** for real-time traffic monitoring.  
 - 🔥 **Emergency vehicle priority detection with IoT-based siren recognition.**  
 
+```markdown
+   ![Smart Traffic System Block Diagram](PROCESS_FLOW.png)
